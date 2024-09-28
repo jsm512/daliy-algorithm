@@ -1,4 +1,4 @@
-package kr.co.ureca.GraphTraversal;
+package algorithm.GraphTraversal;
 
 import java.util.*;
 import java.io.*;

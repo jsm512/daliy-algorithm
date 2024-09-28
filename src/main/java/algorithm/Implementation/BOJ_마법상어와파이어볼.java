@@ -1,4 +1,4 @@
-package kr.co.ureca.Implementation;
+package algorithm.Implementation;
 /*
 # BOJ_20056 마법사 상어와 파이어볼
 # 문제 유형 : 구현 / 시뮬레이션
